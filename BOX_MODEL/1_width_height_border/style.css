@@ -1,0 +1,20 @@
+.caixa_width {
+    /* border-width: 2px; */
+    /* border-style: solid; */
+    /* border-color: blue; */
+
+    border: 2px solid red;
+
+    width:200px;
+}
+
+.img_width{
+    width: 400px;
+}
+
+.caixa_heigth{
+    border: 3px dashed green;
+
+    height:100px;
+    width: 100px;
+}
